@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Reinforcement Learning for Autonomous systems.
 - 💞️ I’m looking to collaborate on Knowledge Sharing.
 - 📫 Reach me at aryan.saurabhbhardwaj@gmail.com or just find me on Twitter https://twitter.com/saurabh_bhar
+- 📫 Find me on LinkedIn --> https://www.linkedin.com/in/saurabhbhardwajofficial/
 
 <!---
 Bhardwaj-Saurabh/Bhardwaj-Saurabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
