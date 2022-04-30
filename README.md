@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh Bhardwaj a Applied Artificial Intelligence student at Cranfield University, UK and a principle Design Engineer at Nissan.
+- 👋 Hi, I’m Saurabh Bhardwaj, a Applied Artificial Intelligence student at Cranfield University, UK and a principle Design Engineer at Nissan.
 - 👀 I’m interested in Computer Vision, Robotics and Autonomous Cars.
 - 🌱 I’m currently learning Reinforcement Learning for Autonomous systems.
 - 💞️ I’m looking to collaborate on Knowledge Sharing.
