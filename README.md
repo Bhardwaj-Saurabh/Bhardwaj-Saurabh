@@ -18,7 +18,7 @@ I’m Saurabh Bhardwaj, a Machine Learning and Data Science practitioner & a Pri
 ## 2. Data Science BootCamp
       HyperionDev, UK
 
-- **Module:** Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, Data Wrangling, Data Analysis, Data Visualisation, Machine Learning - Supervised and Unsupervised Learning, Data Story telling & presentations. 
+- **Module:** Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, SQL, Data Wrangling, Data Analysis, Data Visualisation, Machine Learning - Supervised and Unsupervised Learning, Data Story telling & presentations. 
 
 ## 3. Bachelor of Technology (First Class), Mechanical Engineering
       Gautam Buddha Technical University, Uttar Pradesh, India.
