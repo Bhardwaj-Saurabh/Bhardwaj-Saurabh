@@ -1,9 +1,9 @@
 # Hey! 👋
 I’m Saurabh Bhardwaj, a Machine Learning and Data Science practitioner & a Principal Design Engineer at Nissan Europe.
 
-- 👀 I’m passionate about Deep Learning and AI technologies.
+- 💞️ I’m passionate about Deep Learning and AI technologies.
 - 🌱 I’m currently working on Machine Learning Projects and Cloud Computing skills with AWS and Microsoft Azure.
-- 💞️ I’m looking to collaborate on Knowledge Sharing.
+- 👀 I’m looking a Data Scientist Role where I can apply knowledge and skills I have leanrned from 16+ years of experience in automotive industry, master's degree in AI, Data Science Bootcamp and various personal projects and certifications.
 
 # Education 
 ## 1. Master of Science (MSc.), Applied Artificial Intelligence
