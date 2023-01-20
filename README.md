@@ -5,6 +5,12 @@ I’m Saurabh Bhardwaj, a Machine Learning and Data Science practitioner & a Pri
 - 🌱 I’m currently working on Machine Learning Projects and Cloud Computing skills with AWS and Microsoft Azure.
 - 👀 I’m looking a Data Scientist Role where I can apply knowledge and skills I have leanrned from 16+ years of experience in automotive industry, master's degree in AI, Data Science Bootcamp and various personal projects and certifications.
 
+# Experience
+## Data Science BootCamp
+      HyperionDev, UK
+      
+- **Module:** Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, SQL, Data Wrangling, Data Analysis, Data Visualisation, Machine Learning - Supervised and Unsupervised Learning, Data Story telling & presentations. 
+
 # Education 
 ## 1. Master of Science (MSc.), Applied Artificial Intelligence
       Centre for Autonomous and Cyber-Physical Systems, Cranfield University, United Kingdom.
@@ -14,11 +20,6 @@ I’m Saurabh Bhardwaj, a Machine Learning and Data Science practitioner & a Pri
 
 - **Master Thesis:** Understanding Over-fitting and Generalisation in Deep Reinforcement Learning using OpenAI Gym.
 - **Group Design Peoject:** Identify highly intoxicated people at airport using Computer Vision
-
-## 2. Data Science BootCamp
-      HyperionDev, UK
-
-- **Module:** Python, Numpy, Pandas, SciPy, Matplotlib, Seaborn, SQL, Data Wrangling, Data Analysis, Data Visualisation, Machine Learning - Supervised and Unsupervised Learning, Data Story telling & presentations. 
 
 ## 3. Bachelor of Technology (First Class), Mechanical Engineering
       Gautam Buddha Technical University, Uttar Pradesh, India.
