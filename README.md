@@ -3,7 +3,7 @@ I’m Saurabh Bhardwaj, a Freelancer Machine Learning Engineer and Data Scientis
 
 # Skills
 - **Programming:**
-<img src="images/python libraries.png" height="50">
+<img src="images/python libraries.png">
 
 
 - **Machine Learning:** Data Engineering, Data Analysis, Predictive Modelling, NLP, Computer Vision
