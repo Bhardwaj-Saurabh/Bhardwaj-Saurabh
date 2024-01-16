@@ -6,7 +6,7 @@ I’m Saurabh Bhardwaj, a Freelancer Machine Learning Engineer and Data Scientis
 <img src="images/python.jpeg" height="50"> <img src="images/c.png" height="50">
 
 - **Libraries & Framework:**
-<img src="images/pandas.png" height="50"> <img src="images/numpy.png" height="50"> <img src="images/scipy.png" height="50"> <img src="images/seaborn.jpeg" height="50"> <img src="images/Matplotlib.jpeg" height="50"> <img src="images/Scikit_learn.jpeg" height="50"> <img src="images/Keras.png" height="50">  <img src="images/Tensorflow.png" height="50">  <img src="images/Pytorch.png" height="50"> <img src="images/Pytorch.png" height="50"> 
+<img src="images/pandas.png" height="50"> <img src="images/numpy.png" height="50"> <img src="images/scipy.png" height="50"> <img src="images/seaborn.jpeg" height="50"> <img src="images/Matplotlib.png" height="50"> <img src="images/Scikit-Learn.png" height="50"> <img src="images/Keras.png" height="50">  <img src="images/Tensorflow.png" height="50">  <img src="images/Pytorch.png" height="50"> <img src="images/Pytorch.png" height="50"> 
 
 
 - **Machine Learning:** Data Engineering, Data Analysis, Predictive Modelling, NLP, Computer Vision
