@@ -1,16 +1,17 @@
 # Hey! 👋
 I’m Saurabh Bhardwaj, a Freelancer Machine Learning Engineer and Data Scientist. 
 
-# Experience
-## Data Science BootCamp
-      HyperionDev, UK
+# Skills
+- **Programming:** Python, C++, Data Structure and Algorithms, 
+- **Libraries & Framework:** Pandas, SciPy, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, FAST API
+- **Machine Learning:** Data Engineering, Data Analysis, Feature Engineering, Feature Selection, Deployment
+- **Software Development:** Git, GitHub, version control, DVC, CI/CD, Docker, MLOPs best practices
+- **Others:** SQL, NO-SQL, Tableau, Weight & Bias and MLFlow pipeline, AWS SageMaker, Azure DevOps
       
 # Education 
-## 1. Master of Science (MSc.), Applied Artificial Intelligence
-      Cranfield University, UK.
+- **MSc-Applied Artificial Intelligence** Cranfield University, UK.
 
-## 3. Bachelor of Technology (First Class), Mechanical Engineering
-      Gautam Buddha Technical University, Uttar Pradesh, India.
+- **B-Tech: Mechanical Engineering** Gautam Buddha Technical University, India.
 
 # Contact
 :e-mail: aryan.saurabhbhardwaj@gmail.com
