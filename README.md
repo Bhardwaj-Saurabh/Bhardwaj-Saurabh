@@ -4,8 +4,8 @@ I’m Saurabh Bhardwaj, a Freelancer Machine Learning Engineer and Data Scientis
 # Skills
 - **Programming:** Python, C++, Data Structure and Algorithms, 
 - **Libraries & Framework:** Pandas, SciPy, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, FAST API
-- **Machine Learning:** Data Engineering, Data Analysis, Feature Engineering, Feature Selection, Deployment
-- **Software Development:** Git, GitHub, version control, DVC, CI/CD, Docker, MLOPs best practices
+- **Machine Learning:** Data Engineering, Data Analysis, Predictive Modelling, NLP, Computer Vision
+- **Software Development:** Git, GitHub, Version Control, DVC, CI/CD, Dockers, Kubernates, Terraform, MLOPs
 - **Others:** SQL, NO-SQL, Tableau, Weight & Bias and MLFlow pipeline, AWS SageMaker, Azure DevOps
       
 # Education 
