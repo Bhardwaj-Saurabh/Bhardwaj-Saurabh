@@ -1,5 +1,11 @@
 # Hey! 👋
-I’m Saurabh Bhardwaj, a Freelancer Machine Learning Engineer and Data Scientist. 
+I’m Saurabh Bhardwaj. 
+
+As a Machine Learning & Generative AI Solution Specialist, I provide cutting-edge AI-driven solutions tailored to accelerate business innovation and efficiency. With extensive experience across Machine Learning (ML), Generative AI, and MLOps, I help organizations harness the transformative power of AI to solve complex challenges, improve decision-making, and streamline operations.
+
+My expertise spans across predictive modeling, cloud integration, and end-to-end ML pipeline development, using industry-leading technologies like TensorFlow, PyTorch, AWS, and Azure. From optimizing battery performance to developing cost-saving price prediction models, I have consistently delivered measurable results in fast-paced, dynamic environments.
+
+With certifications in Generative AI and MLOps and a proven track record of reducing costs and enhancing productivity, I am dedicated to building scalable AI solutions that align with your organization’s goals. Let’s collaborate to leverage AI’s full potential and bring cutting-edge innovation to your business.
 
 # Skills
 - **Programming:**
