@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m Saurabh Bhardwaj
+# 👋 Hey there! I’m Saurabh!
 
 Welcome to my GitHub! As a **Machine Learning & Generative AI Solution Specialist**, I thrive on building innovative, AI-driven solutions that push businesses towards the forefront of technological advancement. Whether it's **predictive modeling**, **generative AI**, or full-scale **MLOps pipelines**, I leverage state-of-the-art technologies to help organizations solve complex problems, boost productivity, and achieve measurable outcomes.
 
