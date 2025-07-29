@@ -1,61 +1,87 @@
-# 👋 Hey there! I’m Saurabh!
+# 👋 Hello! I'm Saurabh Bhardwaj
 
-Welcome to my GitHub! As a **Machine Learning & Generative AI Solution Specialist**, I thrive on building innovative, AI-driven solutions that push businesses towards the forefront of technological advancement. Whether it's **predictive modeling**, **generative AI**, or full-scale **MLOps pipelines**, I leverage state-of-the-art technologies to help organizations solve complex problems, boost productivity, and achieve measurable outcomes.
+## 🚀 Agentic and Gen AI Specialist | MLOps Architect
 
-### 🌟 **What I Bring to the Table**
-With a strong foundation in **Machine Learning**, **Generative AI**, and **MLOps**, I have hands-on experience across a variety of industries and business challenges. From optimizing workflows and enhancing decision-making processes to building models that **reduce costs** and **boost efficiency**, my mission is to unlock the full potential of AI for organizations ready to innovate.
+Welcome to my GitHub! I’m a **Principal Machine Learning & AI Engineer** with over 19 years of experience building **impactful, enterprise-grade AI systems** across finance, manufacturing, and enterprise ecosystems. I specialize in architecting **scalable Generative AI (RAG, LLMs, Multimodal AI)**, **MLOps pipelines**, and **cloud-native AI platforms** that deliver measurable business value.
 
-Some of my recent projects include:
-- 🚗 **Battery Performance Optimization** for the electric vehicle industry.
-- 🏷️ **Price Prediction Models** that have saved companies millions.
-- 📊 **Data-driven decision-making tools** that streamline complex operations.
+Whether you're a startup looking to integrate AI fast or an enterprise aiming for **digital transformation at scale**, I help teams deploy robust, production-ready AI solutions that **reduce costs**, **enhance decision-making**, and **future-proof operations**.
 
 ---
 
-## ⚙️ **Skills & Expertise**
+## 🧠 What I Do Best
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="CI/CD" />
-</p>
+- ⚙️ Architect & Deploy **Enterprise-Grade RAG Systems**
+- 🤖 Design & Operationalize **Agentic AI Applications**
+- 🧱 Build Robust **MLOps Pipelines** on Azure, AWS, & Hybrid Clouds
+- 🔍 Create **Explainable & Ethical AI Systems** (GDPR-compliant)
+- 📊 Enable **Data-Driven Decision-Making Tools** with predictive modeling
 
 ---
 
-## 🎓 **Education**
-- **MSc in Applied Artificial Intelligence**  
-  *Cranfield University, UK*
+## 🔥 Featured Projects
 
-- **B.Tech in Mechanical Engineering**  
-  *Gautam Buddha Technical University, India*
+### 🔎 RAG-Based Knowledge Retention System
+**Tech Stack**: Azure OpenAI, Azure AI Search, Terraform, CI/CD  
+📈 Improved retrieval accuracy from **64% → 89%** using **agentic self-correcting LLMs**  
+👥 Led a team of 6 to deploy scalable RAG pipeline across Azure  
+✅ Integrated feedback loop for continuous learning and drift detection  
+
+### 📄 AI for Document Validation using Computer Vision
+**Tech Stack**: PyTorch, Azure ML, Prometheus, Terraform  
+📉 Reduced documentation errors by **93%** for UK-based enterprise client  
+🔁 Built fully automated monitoring pipelines using Azure ML & Prometheus  
+
+### 📈 AI-Driven Reporting Automation
+**Tech Stack**: Azure Data Factory, Synapse, Power BI  
+⏱️ Reduced reporting time by **70%**, deployed enterprise-wide in QA  
+📌 Automated visual reports for leadership with real-time data sync  
 
 ---
 
-## 🏆 **Certifications**
-- **Generative AI & MLOps**  
-  Building cutting-edge AI systems with a focus on scaling, automation, and cloud integration.
+## ⚙️ Tech Toolbox
+
+### 🧠 **AI & ML**
+`Python`, `PyTorch`, `TensorFlow`, `Scikit-learn`, `LangChain`, `LlamaIndex`, `AutoGen`, `Crew AI`, `Hugging Face`, `NLP`, `Prompt Engineering`, `Computer Vision`, `Forecasting`, `Anomaly Detection`
+
+### ☁️ **Cloud & DevOps**
+`Azure AI Studio`, `Azure ML`, `AWS SageMaker`, `Azure OpenAI`, `Terraform`, `CI/CD`, `Kubernetes`, `Docker`, `Airflow`, `MLflow`, `Kubeflow`, `GitHub Actions`, `Azure DevOps`, `Microsoft Fabric`
+
+### 🧱 **Data Engineering**
+`Spark`, `ETL Pipelines`, `DataBricks`, `Synapse`, `Power BI`, `SQL`, `NoSQL`, `Redshift`, `S3`, `Data Warehousing`
 
 ---
 
-## 💬 **Let’s Connect**
-I'm always excited to collaborate with innovative teams and individuals passionate about **AI-driven solutions**. If you're interested in working together or discussing how I can help your organization **leverage AI** for business transformation, feel free to reach out!
+## 🎓 Education & Certifications
+
+- 🎓 **MSc in Applied Artificial Intelligence** – Cranfield University, UK  
+- 🧠 **Data Science Bootcamp (1st Rank)** – Imperial College London  
+- 🎓 **B.Tech – Mechanical Engineering** – UPTU, India  
+
+### 🔐 Notable Certifications
+- Microsoft Azure AI Engineer (AI-102)  
+- Microsoft Fabric Engineer (DP-600)  
+- Azure Data Scientist (DP-100)  
+- Generative AI Nanodegree – Udacity  
+- MLOps, NLP, Deep Learning Specializations – Coursera, Udacity  
+- Practical Data Science on AWS  
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I'm open to:
+- 🤖 AI Consulting Projects
+- 🧠 Speaking & Workshops on GenAI & MLOps
+- 🌐 Enterprise AI Solution Design
+- 💼 Contract or Fractional CTO Roles
 
 📧 **Email**: aryan.saurabhbhardwaj@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/saurabhbhardwajofficial/)**  
-🔗 **[Twitter](https://twitter.com/saurabh_bhar)**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/saurabhbhardwajofficial/)  
+🔗 [**Twitter**](https://twitter.com/saurabh_bhar)  
+🔗 [**Portfolio**](https://github.com/Bhardwaj-Saurabh) *(You're already here!)*
 
 ---
 
+> “The future belongs to those who integrate intelligence—not just automate.”  
 
-<!---
-Bhardwaj-Saurabh/Bhardwaj-Saurabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's build the next AI solution together. 🚀
