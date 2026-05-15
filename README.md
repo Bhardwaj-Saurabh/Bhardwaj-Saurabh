@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Saurabh Bhardwaj
+# 👋 Hello! I'm Saurabh
 
 ## 🚀 Agentic and Gen AI Specialist | MLOps Architect
 
