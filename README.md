@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Saurabh
 
-## 🚀 Agentic and Gen AI Specialist | MLOps Architect
+## 🚀 Lead AI Architect and AI Strategy @delaware
 
-Welcome to my GitHub! I’m a **Principal Machine Learning & AI Engineer** with over 19 years of experience building **impactful, enterprise-grade AI systems** across finance, manufacturing, and enterprise ecosystems. I specialize in architecting **scalable Generative AI (RAG, LLMs, Multimodal AI)**, **MLOps pipelines**, and **cloud-native AI platforms** that deliver measurable business value.
+Welcome to my GitHub! I’m a **Lead AI Architect** with over 19 years of experience building **impactful, enterprise-grade AI systems** across finance, manufacturing, and enterprise ecosystems. I specialize in architecting **scalable Generative AI (RAG, LLMs, Multimodal AI)**, **MLOps, LLMOps pipelines**, and **cloud-native AI platforms** that deliver measurable business value.
 
 Whether you're a startup looking to integrate AI fast or an enterprise aiming for **digital transformation at scale**, I help teams deploy robust, production-ready AI solutions that **reduce costs**, **enhance decision-making**, and **future-proof operations**.
 
